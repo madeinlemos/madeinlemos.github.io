@@ -8,3 +8,37 @@
       url('./madeinlemos/madeinlemos.ttf?v=1.102') format("truetype"), 
       url('./madeinlemos/madeinlemos.svg#madeinlemos?v=1.102') format("svg") 
 }
+
+[data-icon]:before {
+  font-family: "madeinlemos" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "madeinlemos" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-download:before {
+  content: "a";
+}
+.icon-arrow-top-right:before {
+  content: "b";
+}
+.icon-locked:before {
+  content: "c";
+}
