@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'madeinlemos';
+  font-weight: normal;
+  font-style: normal;
+  src: 
+      url('./madeinlemos/madeinlemos.eot?#iefix') format("embedded-opentype"), 
+      url('./madeinlemos/madeinlemos.woff?v=1.102') format('woff'), 
+      url('./madeinlemos/madeinlemos.ttf?v=1.102') format("truetype"), 
+      url('./madeinlemos/madeinlemos.svg#madeinlemos?v=1.102') format("svg") 
+}
