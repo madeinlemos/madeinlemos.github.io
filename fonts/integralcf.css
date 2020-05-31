@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Integral';
+  font-weight: 400;
+  src: 
+      url('./integralcf/IntegralCF-Regular.woff') format('woff'), /* Super Modern Browsers */
+      url('./integralcf/IntegralCF-Regular.woff2') format('woff2') /* Modern Browsers */
+}
+@font-face {
+  font-family: 'Integral';
+  font-weight: 700;
+  src: 
+      url('./integralcf/IntegralCF-Bold.woff') format('woff'), /* Super Modern Browsers */
+      url('./integralcf/IntegralCF-Bold.woff2') format('woff2') /* Modern Browsers */
+}
