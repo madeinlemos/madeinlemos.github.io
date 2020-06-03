@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Neue Montreal';
+  font-weight: 300;
+  src: 
+      url('./neuemontreal/NeueMontreal-Light.woff?v=1.102') format('woff'), /* Super Modern Browsers */
+      url('./neuemontreal/NeueMontreal-Light.woff2?v=1.102') format('woff2') /* Modern Browsers */
+}
+@font-face {
+  font-family: 'Neue Montreal';
+  font-weight: 400;
+  src: 
+      url('./neuemontreal/NeueMontreal-Regular.woff?v=1.102') format('woff'), /* Super Modern Browsers */
+      url('./neuemontreal/NeueMontreal-Regular.woff2?v=1.102') format('woff2') /* Modern Browsers */
+}
+@font-face {
+  font-family: 'Neue Montreal';
+  font-weight: 500;
+  src: 
+      url('./neuemontreal/NeueMontreal-Medium.woff?v=1.102') format('woff'), /* Super Modern Browsers */
+      url('./neuemontreal/NeueMontreal-Medium.woff2?v=1.102') format('woff2') /* Modern Browsers */
+}
+@font-face {
+  font-family: 'Neue Montreal';
+  font-weight:  700;
+  src: 
+      url('./neuemontreal/NeueMontreal-Bold.woff?v=1.102') format('woff'), /* Super Modern Browsers */
+      url('./neuemontreal/NeueMontreal-Bold.woff2?v=1.102') format('woff2') /* Modern Browsers */
+}
